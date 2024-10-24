@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "aws.accessKeyId",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.accessKeyId'"
+  },
+  {
+    "name": "aws.secretKey",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.secretKey'"
+  },
+  {
+    "name": "aws.tokenSession",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.tokenSession'"
+  },
+  {
+    "name": "aws.s3.bucket",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.s3.bucket'"
+  },
+  {
+    "name": "aws.s3.prefix",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.s3.prefix'"
+  }
+]}
