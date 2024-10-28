@@ -15,9 +15,9 @@ public class MainApplication implements CommandLineRunner {
 	private final S3Services s3Services;
 	
 	@Override
-	public void run(String... args) throws Exception {		
-		log.info("ingreso");
-		s3Services.getListFilesFromDirectory();
+	public void run(String... args) throws Exception {
+		
+		s3Services.getListV2FilesFromDirectory();
 	}
 
 }
