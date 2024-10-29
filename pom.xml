@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>work.javiermantilla</groupId>
 	<artifactId>spring-s3-aws</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>spring-s3-aws</name>
 	<description>Demo project for Spring Boot</description>
 	<url />
