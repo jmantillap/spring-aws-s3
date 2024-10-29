@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>work.javiermantilla</groupId>
-	<artifactId>spring-bancolombia-aws</artifactId>
+	<artifactId>spring-s3-aws</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-bancolombia-aws</name>
+	<name>spring-s3-aws</name>
 	<description>Demo project for Spring Boot</description>
 	<url />
 	<licenses>
